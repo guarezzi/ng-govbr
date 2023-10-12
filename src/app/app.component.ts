@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { HeaderOptions } from './govbr-components/govbr-header/header/shared/header-options.model';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ng-govbr';
+
+  headerConfig: HeaderOptions = {
+    isCompacto: true
+  }
 }
