@@ -1,5 +1,7 @@
 # NgGovbr
 
+Projeto baseado no design system do govbr em: https://www.gov.br/ds/home
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
 ## Development server
