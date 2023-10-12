@@ -1,3 +1,3 @@
 export enum GovBrComponentsEnum {
-    BRHeader = 'br-header';
+    BRHeader = 'br-header'
 }
