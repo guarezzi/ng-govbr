@@ -10,6 +10,9 @@ export class AppComponent {
   title = 'ng-govbr';
 
   headerConfig: HeaderOptions = {
-    isCompacto: true
+    isCompacto: true,
+    titulo: 'Sistema de Teste',
+    subtitulo: 'Aplicação do design system govbr'
   }
+
 }

@@ -1,3 +1,5 @@
 export interface HeaderOptions {
-    isCompacto: boolean
+    isCompacto?: boolean;
+    titulo?: string;
+    subtitulo?: string;
 }
